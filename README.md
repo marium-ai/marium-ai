@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there, I'm Marium Ahmed
 
-<!--
-**marium-ai/marium-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Gen Z CS Student | Learning Python & FastAPI | Building small projects to grow 🚀 | Future AI Engineer 🤖**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+- 🔭 Currently working on **beginner Python & FastAPI projects**  
+- 🌱 Learning **core programming, logic building, and backend basics**  
+- 🧠 Goal: become an **AI Engineer** (step by step)  
+- 🎯 Motto: *“Code. Learn. Repeat.”*
+
+---
+
+### 🛠️ Tech Stack  
+💻 Python | FastAPI | HTML | CSS  
+🧩 Learning Git | GitHub | VS Code  
+
+---
+
+### 🌐 Connect with Me  
+📬 **Email:** mariumahmedali913@example.com  
+🐍 **GitHub:** [github.com/marium-ai](https://github.com/marium-ai)
+
+---
+
+> *"Turning my curiosity into code, one line at a time."* ✨
