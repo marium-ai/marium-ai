@@ -1,27 +1,32 @@
 # 👋 Hey there, I'm Marium Ahmed
 
-👩‍💻 **Gen Z CS Student | Learning Python & FastAPI | Building small projects to grow 🚀 | Future AI Engineer 🤖**
+🎓 Gen Z CS Student | Python & FastAPI Developer | Building real projects 🚀 | Future AI Engineer 🤖
 
 ---
 
-### 💡 About Me  
-- 🔭 Currently working on **beginner Python & FastAPI projects**  
-- 🌱 Learning **core programming, logic building, and backend basics**  
-- 🧠 Goal: become an **AI Engineer** (step by step)  
-- 🎯 Motto: *“Code. Learn. Repeat.”*
+## 💡 About Me
+
+- 🛠️ Building backend projects using **Python & FastAPI**
+- 🌱 Strengthening my skills in **API development, logic building, and backend basics**
+- 🎯 Goal: become an **AI Engineer** (step by step)
+- 📌 Motto: *"Code. Learn. Repeat."*
 
 ---
 
-### 🛠️ Tech Stack  
-💻 Python | FastAPI | HTML | CSS  
-🧩 Learning Git | GitHub | VS Code  
+## 🧰 Tech Stack
+
+💻 Python | FastAPI | HTML | CSS
+🔧 Git | GitHub | VS Code
 
 ---
 
-### 🌐 Connect with Me  
-📬 **Email:** mariumahmedali913@example.com  
-🐍 **GitHub:** [github.com/marium-ai](https://github.com/marium-ai)
+## 📂 Featured Projects
+
+- 🔹 [**fastapi_practice**](https://github.com/marium-ai/fastapi_practice) — My FastAPI learning journey, including a student management API, library system, patient records, and more mini projects.
 
 ---
 
-> *"Turning my curiosity into code, one line at a time."* ✨
+## 🌐 Connect with Me
+
+📧 Email: [mariumahmedali913@example.com](mailto:mariumahmedali913@example.com)
+🐙 GitHub: [github.com/marium-ai](https://github.com/marium-ai)
