@@ -23,8 +23,10 @@
 ## 📂 Featured Projects
 
 - 🔹 [**fastapi_practice**](https://github.com/marium-ai/fastapi_practice) — My FastAPI learning journey, including a student management API, library system, patient records, and more mini projects.
+- 
+### 🏆 Certifications
 
----
+[![AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-blue?style=for-the-badge&logo=microsoft)](https://credly.com/badges/f8ee3ed2-478f-4249-bff8-db54091143e9)
 
 ## 🌐 Connect with Me
 
