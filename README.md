@@ -28,7 +28,8 @@
 
 [![AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-blue?style=for-the-badge&logo=microsoft)](https://credly.com/badges/f8ee3ed2-478f-4249-bff8-db54091143e9)
 
+
 ## 🌐 Connect with Me
 
-📧 Email: [mariumahmedali913@example.com](mailto:mariumahmedali913@example.com)
+📧 Email: [mariumahmedali913@example.com](mailto:mariumahmedali913@gmail.com)
 🐙 GitHub: [github.com/marium-ai](https://github.com/marium-ai)
