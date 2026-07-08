@@ -15,7 +15,7 @@
 
 ## 🧰 Tech Stack
 
-💻 Python | FastAPI | HTML | CSS
+💻 Python | FastAPI | 
 🔧 Git | GitHub | VS Code
 
 ---
@@ -31,5 +31,5 @@
 
 ## 🌐 Connect with Me
 
-📧 Email: [mariumahmedali913@example.com](mailto:mariumahmedali913@gmail.com)
+📧 Email(mailto:mariumahmedali913@gmail.com)
 🐙 GitHub: [github.com/marium-ai](https://github.com/marium-ai)
