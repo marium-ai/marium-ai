@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm Marium Ahmed
 
-🎓 **Gen Z CS Student** | 🐍 **Python & FastAPI Developer** | 📊 **Learning NumPy** | 🚀 **Building Real Projects** | 🤖 **Future AI Engineer**
+🎓 **ICS Student** | 🐍 **Python Developer** | ⚡ **FastAPI** | 📊 **NumPy** | 🤖 **Aspiring AI Engineer**
+
 
 ---
 
@@ -59,7 +60,7 @@
 
 ## 🌐 Connect With Me
 
-📧 **Email:** mariumahmedali91
+📧 **Email:** mariumahmedali913@gmail.com
 
 ---
 
