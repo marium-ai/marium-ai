@@ -1,35 +1,70 @@
 # 👋 Hey there, I'm Marium Ahmed
 
-🎓 Gen Z CS Student | Python & FastAPI Developer | Building real projects 🚀 | Future AI Engineer 🤖
+🎓 **Gen Z CS Student** | 🐍 **Python & FastAPI Developer** | 📊 **Learning NumPy** | 🚀 **Building Real Projects** | 🤖 **Future AI Engineer**
 
 ---
 
 ## 💡 About Me
 
-- 🛠️ Building backend projects using **Python & FastAPI**
-- 🌱 Strengthening my skills in **API development, logic building, and backend basics**
-- 🎯 Goal: become an **AI Engineer** (step by step)
-- 📌 Motto: *"Code. Learn. Repeat."*
+* 🛠️ Building backend projects using **Python & FastAPI**
+* 📊 Currently learning **NumPy** and strengthening my Python fundamentals
+* 🌱 Improving my skills in **API development, logic building, and backend development**
+* 🚀 Building and pushing projects to GitHub while learning
+* 🎯 Goal: Become an **AI Engineer**, step by step
+* 📌 Motto: *"Code. Learn. Repeat."*
 
 ---
 
 ## 🧰 Tech Stack
 
-💻 Python | FastAPI | 
-🔧 Git | GitHub | VS Code
+**Languages & Libraries**
+
+🐍 Python | 🔢 NumPy | ⚡ FastAPI
+
+**Tools**
+
+🔧 Git | 🐙 GitHub | 💻 VS Code
+
+---
+
+## 📚 Currently Learning
+
+### 🔢 NumPy
+
+* 1D, 2D & 3D Arrays
+* Array Indexing & Slicing
+* Fancy Indexing
+* Boolean Indexing & Filtering
+* Array Reshaping
+* `flatten()` & `ravel()`
+* Mathematical Operations
+* Aggregate Functions
+* Array Creation with `zeros()`, `ones()`, `full()`, `arange()` & `identity()`
 
 ---
 
 ## 📂 Featured Projects
 
-- 🔹 [**fastapi_practice**](https://github.com/marium-ai/fastapi_practice) — My FastAPI learning journey, including a student management API, library system, patient records, and more mini projects.
-- 
-### 🏆 Certifications
+* 🔹 [**fastapi_practice**](https://github.com/marium-ai/fastapi_practice) — My FastAPI learning journey, including a student management API, library system, patient records, and other mini projects.
 
-[![AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-blue?style=for-the-badge&logo=microsoft)](https://credly.com/badges/f8ee3ed2-478f-4249-bff8-db54091143e9)
+* 🔹 [**numpy-practice**](https://github.com/marium-ai/numpy-practice) — My NumPy learning journey, covering arrays, indexing, slicing, filtering, reshaping, mathematical operations, and aggregate functions.
 
+---
 
-## 🌐 Connect with Me
+## 🏆 Certifications
 
-📧 Email(mailto:mariumahmedali913@gmail.com)
-🐙 GitHub: [github.com/marium-ai](https://github.com/marium-ai)
+[![AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-blue?style=for-the-badge\&logo=microsoft)](https://credly.com/badges/f8ee3ed2-478f-4249-bff8-db54091143e9)
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** mariumahmedali91
+
+---
+
+### 🚀 My Learning Journey
+
+**Python → FastAPI → NumPy → Data & AI → Machine Learning → AI Engineering**
+
+> *Learning by building, one project at a time.*
