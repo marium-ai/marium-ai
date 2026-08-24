@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-* 🛠️ Building backend projects using **Python & FastAPI**
+* 🛠️Improving my skills in API development, logic building, and backend development
 * 📊 Currently learning **NumPy** and strengthening my Python fundamentals
 * 🌱 Improving my skills in **API development, logic building, and backend development**
 * 🚀 Building and pushing projects to GitHub while learning
