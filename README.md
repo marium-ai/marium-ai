@@ -1,23 +1,67 @@
 # 👋 Hey there, I'm Marium Ahmed
 
-🎓 **ICS Student** | 🐍 **Python Developer** | ⚡ **FastAPI** | 📊 **NumPy** | 🤖 **Aspiring AI Engineer**
+🎓 **Gen Z CS Student** | 🐍 **Python & FastAPI Developer** | 📊 **Learning NumPy** | 🚀 **Building Real Projects** | 🤖 **Future AI Engineer**
 
+---
 
-# 💫 About Me:
-🏗️ I’m currently working on<br>Python projects, FastAPI APIs and AI automation<br><br>🤝 I’m looking to collaborate on<br>Python, FastAPI, AI, and automation projects.<br><br>🤝 I’m looking for help with<br>Backend development, clean code, and building real-world projects.<br><br>🌱 I’m currently learning<br>Python, NumPy, FastAPI, Pydantic, Git/GitHub, AI automation, and Machine Learning.<br><br>💬 Ask me about<br>Python, NumPy, FastAPI, Pydantic, GitHub, and my coding projects.<br><br>⚡ Fun fact<br>I started with Python basics and now I’m building APIs and AI-powered automation projects.
+## 💡 About Me
 
+* 🛠️ Building backend projects using **Python & FastAPI**
+* 📊 Currently learning **NumPy** and strengthening my Python fundamentals
+* 🌱 Improving my skills in **API development, logic building, and backend development**
+* 🚀 Building and pushing projects to GitHub while learning
+* 🎯 Goal: Become an **AI Engineer**, step by step
+* 📌 Motto: *"Code. Learn. Repeat."*
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariumahmedali913@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=marium-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=marium-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=marium-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧰 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages & Libraries**
+
+🐍 Python | 🔢 NumPy | ⚡ FastAPI
+
+**Tools**
+
+🔧 Git | 🐙 GitHub | 💻 VS Code
+
+---
+
+## 📚 Currently Learning
+
+### 🔢 NumPy
+
+* 1D, 2D & 3D Arrays
+* Array Indexing & Slicing
+* Fancy Indexing
+* Boolean Indexing & Filtering
+* Array Reshaping
+* `flatten()` & `ravel()`
+* Mathematical Operations
+* Aggregate Functions
+* Array Creation with `zeros()`, `ones()`, `full()`, `arange()` & `identity()`
+
+---
+
+## 📂 Featured Projects
+
+* 🔹 [**fastapi_practice**](https://github.com/marium-ai/fastapi_practice) — My FastAPI learning journey, including a student management API, library system, patient records, and other mini projects.
+
+* 🔹 [**numpy-practice**](https://github.com/marium-ai/numpy-practice) — My NumPy learning journey, covering arrays, indexing, slicing, filtering, reshaping, mathematical operations, and aggregate functions.
+
+---
+
+## 🏆 Certifications
+
+[![AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-blue?style=for-the-badge\&logo=microsoft)](https://credly.com/badges/f8ee3ed2-478f-4249-bff8-db54091143e9)
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** mariumahmedali91
+
+---
 
 ### 🚀 My Learning Journey
 
